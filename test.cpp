@@ -2,7 +2,7 @@
 #include <cstdio>
 int main(int argc,char *argv[])
 {
-	printf("nihaoma\n");
+	std::cout << "实现第一个功能"<<std::endl;
 	return 0;
 
 }
